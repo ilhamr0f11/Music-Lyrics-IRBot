@@ -44,7 +44,7 @@ PyLyrics Is An [Open-Source] Bot That Can Help You Get Song Lyrics
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/LhRfi)
+👨‍💻 **Developer:** [Ilham Rofi'i](t.me/LhRfi)
 
 💡 **Source Code:** [Github](https://github.com)
 
