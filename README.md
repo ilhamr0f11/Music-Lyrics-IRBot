@@ -1,5 +1,4 @@
-# 🤖 Demo:
-<a href="https://t.me/lyricsirbot">
+
 # 👨‍💻 Deploy:
 
 <details>	
