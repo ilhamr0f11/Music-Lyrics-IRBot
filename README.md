@@ -1,5 +1,5 @@
 # 🤖 Demo:
-<a href="https://t.me/lyricsirbot"><img src="https://img.shields.io/badge/@PyLyricsBot-ffff00?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/lyricsirbot">
 # 👨‍💻 Deploy:
 
 <details>	
